@@ -9,3 +9,5 @@ sum_ = a + b
 print(sum_)
 c = substract(a, b)
 print(c)
+
+print(multiply(a, b))
