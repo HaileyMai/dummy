@@ -10,4 +10,5 @@ print(sum_)
 c = substract(a, b)
 print(c)
 
-print(multiply(a, b))
+m = multiply(a, b)
+print(m)
