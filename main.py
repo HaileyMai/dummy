@@ -4,5 +4,8 @@ print("main file")
 
 a = 10
 b = 56
+
 sum_ = a + b
 print(sum_)
+c = substract(a, b)
+print(c)
